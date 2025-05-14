@@ -9,17 +9,13 @@ I'm a CS student at Georgia Tech passionate about solving real-world problems wi
 - 🎓 Studying Computer Science @ Georgia Tech (3.83 GPA)
 - 📊 Researching robust and risk-aware reinforcement learning for trading systems
 - 🧠 Learning about trustworthy AI, distributed systems, and mechanism design
-- 🧰 Building a platform for plug-and-play trading strategies at a startup
 
 ---
 
 ### 🧠 Past Experience
 
 - **Teaching Assistant** – *CS 3510: Design & Analysis of Algorithms*  
-  Graded, held office hours, and helped 100+ students master NP-completeness, dynamic programming, and graph theory
-
-- **Research Intern** – *Deep Learning & Vision*  
-  Developed lightweight segmentation models and optimized inference pipelines. Explored early exit strategies in transformers.
+  Graded, held office hours, and helped 900+ students master NP-completeness, dynamic programming, and graph theory
 
 - **Quant Intern Projects** –  
   Built RL-based financial trading agents using PPO with risk-sensitivity and Shapley-based explainability.  
@@ -40,20 +36,13 @@ I'm a CS student at Georgia Tech passionate about solving real-world problems wi
 
 ---
 
-### ✍️ Writing & Presentations
-
-- 📄 "Trusting AI Under Uncertainty" – Paper-in-progress on incorporating model confidence in LLM outputs  
-- 🎤 "DPLL, SAT, and Complexity" – Talk on SAT-solving algorithms and their applications  
-- 📝 Co-authored grant proposal for Georgia Tech's Art x Technology Initiative on walkable cityscapes
-
----
-
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jayjaveri2711)
 - [GitHub](https://github.com/JayJaveri2711)
+- [School GitHub](https://github.com/jjaveri3)
 - [Website](https://jayjaveri2711.github.io) *(coming soon)*
-- Email: jay.javeri@gatech.edu
+- Email: jjaveri3@gatech.edu
 
 ---
 
