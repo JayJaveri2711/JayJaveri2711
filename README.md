@@ -31,14 +31,12 @@ I'm a CS student at Georgia Tech passionate about solving real-world problems wi
 - 🎨 `K-Memes`  
   Multimodal meme sentiment classification using ResNet50 + BERT + hybrid clustering
 
-- 🌿 `Urban Greening Monitor`  
-  Tracked deforestation and heat islands in urban areas using satellite and sensor data
 
 ---
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jayjaveri2711)
+- [LinkedIn](https://www.linkedin.com/in/jayjaveri)
 - [GitHub](https://github.com/JayJaveri2711)
 - [School GitHub](https://github.com/jjaveri3)
 - [Website](https://jayjaveri2711.github.io) *(coming soon)*
